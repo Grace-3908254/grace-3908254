@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">a passionate software developer</h3>
 
-- 🔭 I’m currently in a Bootcamp **Software Engineering**
+🔭 I’m currently a software engineer in training with BrainStation. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"></p>
